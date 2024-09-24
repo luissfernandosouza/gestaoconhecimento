@@ -1,6 +1,6 @@
 Comandos para executar a aplicação no terminal do VScode
 
-#instalar dependências
+# instalar dependências
 
 `pip install pandas`
 `pip install streamlit`
