@@ -5,4 +5,5 @@ Comandos para executar a aplicação no terminal do VScode
 `pip install pandas`
 `pip install streamlit`
 
-python -m venv venv
+# Executar aplicação
+`python -m venv venv`
