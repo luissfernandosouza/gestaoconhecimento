@@ -1,4 +1,4 @@
-Comandos para executar a aplicação no terminal do VScode
+Comandos para instalar dependências da aplicação no terminal do VScode
 
 # instalar dependências
 
