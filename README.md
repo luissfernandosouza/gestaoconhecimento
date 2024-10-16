@@ -4,6 +4,7 @@ Comandos para executar aplicação
 
 `pip install pandas`
 `pip install streamlit`
+`python -m venv venv`
 
 # Executar aplicação
-`python -m venv venv`
+`streamlit run app.py`
